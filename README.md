@@ -40,7 +40,6 @@ Ensure you have a C++ compiler installed.
    ```bash
    g++ TicTacToe.cpp -o TicTacToe
 
-
 ### Running Python Games
 Ensure you have Python 3 installed.
 
