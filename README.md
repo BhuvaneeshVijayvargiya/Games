@@ -39,10 +39,9 @@ Ensure you have a C++ compiler installed.
 2. Compile your game of choice (e.g., TicTacToe):
    ```bash
    g++ TicTacToe.cpp -o TicTacToe
-
 ### Running Python Games
 Ensure you have Python 3 installed.
 
 1. Run the script directly from your terminal:
-  ```bash
-  python "Rock Paper Scissors.py"
+   ```bash
+   python "Rock Paper Scissors.py"
